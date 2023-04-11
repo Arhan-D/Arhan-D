@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**Arhan-D/Arhan-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![68747470733a2f2f726973686176616e616e642e6769746875622e696f2f7374617469632f696d616765732f6772656574696e67732e676966](https://user-images.githubusercontent.com/129686522/231269578-a6da5089-7831-40e7-8d2c-4bb38afcd442.gif)
 
 Here are some ideas to get you started:
 
